@@ -1,0 +1,11 @@
+# Build output
+KeepAwake.app/
+*.app/
+
+# macOS
+.DS_Store
+
+# Certs / keys — never commit these
+*.p12
+*.pem
+*.cer
